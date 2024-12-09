@@ -1,0 +1,10 @@
+name: softwarequality
+channels:
+  - defaults
+dependencies:
+  - python=3.10
+  - ipython
+  - jupyter
+  - jupyterlab
+  - pandas
+  - numpy
