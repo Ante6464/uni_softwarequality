@@ -8,3 +8,6 @@ dependencies:
   - jupyterlab
   - pandas
   - numpy
+  - pip:
+    - llama-cpp-python
+    - huggingface-hub
