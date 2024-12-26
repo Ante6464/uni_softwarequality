@@ -11,4 +11,6 @@ dependencies:
   - pip:
     - llama-cpp-python
     - huggingface-hub
-
+    - transformers
+    - sacrebleu
+    - mlflow
