@@ -1,0 +1,7 @@
+artifact_location: mlflow-artifacts:/825267534277428260
+creation_time: 1735309416876
+experiment_id: '825267534277428260'
+last_update_time: 1737452237924
+lifecycle_stage: deleted
+name: check-localhost-connection
+tags: {}

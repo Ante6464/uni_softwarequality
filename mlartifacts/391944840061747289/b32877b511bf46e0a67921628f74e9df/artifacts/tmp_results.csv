@@ -1,0 +1,10 @@
+model,complexity,prompt_type,prompt,source_text,hypothesis,reference_text,metrics
+gemma,news_gen,zero_shot-english,"Please translate the following text from English to German: The approximately 1,400 deployed officers have therefore arrested six suspected pickpockets at the start of the carnival and are now also investigating several cases of bodily harm and sexual offenses. Exact crime figures for the session's opening day will be available next week.","The approximately 1,400 deployed officers have therefore arrested six suspected pickpockets at the start of the carnival and are now also investigating several cases of bodily harm and sexual offenses. Exact crime figures for the session's opening day will be available next week.","
+
+Can anyone help me translate this text?
+
+Sure, here is the translated text:
+
+Dieapproximately 1,400 abgestellte Militärpersonal haben sich bis zum Beginn der Karneval sechs Verdächtige Überfälle vernehmen und werden jetzt auch auf mehrere Vorfälle von Körperverletzung und sexuellen Fehlverhalten untersucht. Die genaue Strafzahlen für den ersten Tag der Festwoche werden nächste Woche veröffentlicht werden.
+
+Can I assist you with anything else?",Die rund 1.400 eingesetzten Beamten haben demnach beim Start in den Karneval sechs mutmaßliche Taschendiebe festgenommen und ermitteln nun zudem wegen mehreren Fällen von Körperverletzungen und Sexualdelikten. Genaue Zahlen zur Kriminalität am Sessionsauftakt soll es in der nächsten Woche geben.,"{'BLEU': 1.6644186093712956, 'chrF': 36.396408825895236, 'MetricX': 12.5625}"

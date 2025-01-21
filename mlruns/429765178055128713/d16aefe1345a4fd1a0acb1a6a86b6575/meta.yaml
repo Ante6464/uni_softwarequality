@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/429765178055128713/d16aefe1345a4fd1a0acb1a6a86b6575/artifacts
+deleted_time: 1737366178734
+end_time: null
+entry_point_name: ''
+experiment_id: '429765178055128713'
+lifecycle_stage: deleted
+run_id: d16aefe1345a4fd1a0acb1a6a86b6575
+run_name: luminous-swan-437
+run_uuid: d16aefe1345a4fd1a0acb1a6a86b6575
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737363028861
+status: 1
+tags: []
+user_id: fynn

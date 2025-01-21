@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/825267534277428260/03f39f0719364cb19767b11439c2d4fb/artifacts
+deleted_time: 1737452237924
+end_time: 1735310811058
+entry_point_name: ''
+experiment_id: '825267534277428260'
+lifecycle_stage: deleted
+run_id: 03f39f0719364cb19767b11439c2d4fb
+run_name: crawling-loon-623
+run_uuid: 03f39f0719364cb19767b11439c2d4fb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735310811036
+status: 3
+tags: []
+user_id: fynn

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/713590614913207437/5dbc8cbcdef04736b9eaf131884e00b0/artifacts
+end_time: 1737456940297
+entry_point_name: ''
+experiment_id: '713590614913207437'
+lifecycle_stage: active
+run_id: 5dbc8cbcdef04736b9eaf131884e00b0
+run_name: gemma/news_spec/zero_shot_to-german_english_1
+run_uuid: 5dbc8cbcdef04736b9eaf131884e00b0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737456940228
+status: 3
+tags: []
+user_id: fynn

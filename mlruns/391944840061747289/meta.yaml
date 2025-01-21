@@ -1,0 +1,6 @@
+artifact_location: mlflow-artifacts:/391944840061747289
+creation_time: 1737360727679
+experiment_id: '391944840061747289'
+last_update_time: 1737360727679
+lifecycle_stage: active
+name: gemma_news_gen

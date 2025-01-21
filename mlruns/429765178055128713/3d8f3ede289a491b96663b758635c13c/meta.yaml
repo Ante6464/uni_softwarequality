@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/429765178055128713/3d8f3ede289a491b96663b758635c13c/artifacts
+end_time: 1737363028807
+entry_point_name: ''
+experiment_id: '429765178055128713'
+lifecycle_stage: active
+run_id: 3d8f3ede289a491b96663b758635c13c
+run_name: gemma/easy/zero_shot-english
+run_uuid: 3d8f3ede289a491b96663b758635c13c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737363028696
+status: 3
+tags: []
+user_id: fynn

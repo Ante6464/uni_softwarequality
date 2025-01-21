@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/919032576158961085/8f949f9bf26a4bf7b24220739e5a3d70/artifacts
+deleted_time: 1737452232491
+end_time: 1736001705956
+entry_point_name: ''
+experiment_id: '919032576158961085'
+lifecycle_stage: deleted
+run_id: 8f949f9bf26a4bf7b24220739e5a3d70
+run_name: Translation with llama.cpp
+run_uuid: 8f949f9bf26a4bf7b24220739e5a3d70
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736000017692
+status: 4
+tags: []
+user_id: fynn

@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/825267534277428260/1af93408372a49b19c01bbaff50d3876/artifacts
+deleted_time: 1737452237924
+end_time: 1735309416955
+entry_point_name: ''
+experiment_id: '825267534277428260'
+lifecycle_stage: deleted
+run_id: 1af93408372a49b19c01bbaff50d3876
+run_name: wistful-bird-43
+run_uuid: 1af93408372a49b19c01bbaff50d3876
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735309416932
+status: 3
+tags: []
+user_id: fynn

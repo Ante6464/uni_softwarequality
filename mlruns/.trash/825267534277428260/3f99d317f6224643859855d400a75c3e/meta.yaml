@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/825267534277428260/3f99d317f6224643859855d400a75c3e/artifacts
+deleted_time: 1737452237924
+end_time: 1735825305236
+entry_point_name: ''
+experiment_id: '825267534277428260'
+lifecycle_stage: deleted
+run_id: 3f99d317f6224643859855d400a75c3e
+run_name: bold-moth-993
+run_uuid: 3f99d317f6224643859855d400a75c3e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735825305213
+status: 3
+tags: []
+user_id: fynn
