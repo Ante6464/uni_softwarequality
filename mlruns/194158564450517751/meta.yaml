@@ -1,0 +1,6 @@
+artifact_location: mlflow-artifacts:/194158564450517751
+creation_time: 1737917698072
+experiment_id: '194158564450517751'
+last_update_time: 1737917698072
+lifecycle_stage: active
+name: llama32_news_spec

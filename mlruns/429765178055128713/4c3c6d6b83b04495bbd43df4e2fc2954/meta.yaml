@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/429765178055128713/4c3c6d6b83b04495bbd43df4e2fc2954/artifacts
+deleted_time: 1738222877070
+end_time: 1738221788730
+entry_point_name: ''
+experiment_id: '429765178055128713'
+lifecycle_stage: deleted
+run_id: 4c3c6d6b83b04495bbd43df4e2fc2954
+run_name: gemma/easy/zero_shot_to-english_english_1
+run_uuid: 4c3c6d6b83b04495bbd43df4e2fc2954
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738221787422
+status: 3
+tags: []
+user_id: fynn

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/553009959054917340/8237a68e4d7b4e2e970ccb4bebe0e019/artifacts
+end_time: 1738230546221
+entry_point_name: ''
+experiment_id: '553009959054917340'
+lifecycle_stage: active
+run_id: 8237a68e4d7b4e2e970ccb4bebe0e019
+run_name: llama32/pop_science/zero_shot_to-german_english_1
+run_uuid: 8237a68e4d7b4e2e970ccb4bebe0e019
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738230545924
+status: 3
+tags: []
+user_id: fynn
