@@ -1,0 +1,6 @@
+artifact_location: mlflow-artifacts:/358136329887025901
+creation_time: 1738244772961
+experiment_id: '358136329887025901'
+last_update_time: 1738244772961
+lifecycle_stage: active
+name: llama31_pop_science
