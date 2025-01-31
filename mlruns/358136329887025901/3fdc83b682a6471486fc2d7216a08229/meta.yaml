@@ -1,8 +1,9 @@
 artifact_uri: mlflow-artifacts:/358136329887025901/3fdc83b682a6471486fc2d7216a08229/artifacts
+deleted_time: 1738326268844
 end_time: 1738244861892
 entry_point_name: ''
 experiment_id: '358136329887025901'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 3fdc83b682a6471486fc2d7216a08229
 run_name: llama31/pop_science/zero_shot_to-english_german_1
 run_uuid: 3fdc83b682a6471486fc2d7216a08229
