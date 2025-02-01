@@ -1,8 +1,9 @@
 artifact_uri: mlflow-artifacts:/429765178055128713/3b8ec1de6edf425fb189f9d0962f3d82/artifacts
+deleted_time: 1738398383671
 end_time: 1738307940953
 entry_point_name: ''
 experiment_id: '429765178055128713'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 3b8ec1de6edf425fb189f9d0962f3d82
 run_name: gemma/easy/zero_shot_to-german_english_2
 run_uuid: 3b8ec1de6edf425fb189f9d0962f3d82

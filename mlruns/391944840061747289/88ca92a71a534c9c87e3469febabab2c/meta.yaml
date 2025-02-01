@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/391944840061747289/88ca92a71a534c9c87e3469febabab2c/artifacts
+end_time: 1738335407548
+entry_point_name: ''
+experiment_id: '391944840061747289'
+lifecycle_stage: active
+run_id: 88ca92a71a534c9c87e3469febabab2c
+run_name: gemma/news_gen/zero_shot_to-german_english_1
+run_uuid: 88ca92a71a534c9c87e3469febabab2c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738335407390
+status: 3
+tags: []
+user_id: DCA
