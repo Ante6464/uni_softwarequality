@@ -4,7 +4,7 @@ entry_point_name: ''
 experiment_id: '378317835055917962'
 lifecycle_stage: active
 run_id: d998621dd50b4e3a8634c606e12f15da
-run_name: llama31/news_gen/zero_shot_style_emotion_to-german_english_2
+run_name: llama31/news_gen/zero_shot_style_emotion_to-de_en_2
 run_uuid: d998621dd50b4e3a8634c606e12f15da
 source_name: ''
 source_type: 4

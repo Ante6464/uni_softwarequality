@@ -4,7 +4,7 @@ entry_point_name: ''
 experiment_id: '713590614913207437'
 lifecycle_stage: active
 run_id: 35ff35647945406a9513feed2eac9a47
-run_name: gemma/news_spec/zero_shot_style_to-german_english_1
+run_name: gemma/news_spec/zero_shot_style_to-de_en_1
 run_uuid: 35ff35647945406a9513feed2eac9a47
 source_name: ''
 source_type: 4

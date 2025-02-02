@@ -4,7 +4,7 @@ entry_point_name: ''
 experiment_id: '379656095678811037'
 lifecycle_stage: active
 run_id: 5efa17c48da74c50a7b713deaf6a771c
-run_name: llama32/news_gen/zero_shot_style_to-german_german_1
+run_name: llama32/news_gen/zero_shot_style_to-de_de_1
 run_uuid: 5efa17c48da74c50a7b713deaf6a771c
 source_name: ''
 source_type: 4

@@ -4,7 +4,7 @@ entry_point_name: ''
 experiment_id: '429765178055128713'
 lifecycle_stage: active
 run_id: cff3cf061074497da7cc14cf220fbab9
-run_name: gemma/easy/zero_shot_style_emotion_to-english_english_2
+run_name: gemma/easy/zero_shot_style_emotion_to-en_en_2
 run_uuid: cff3cf061074497da7cc14cf220fbab9
 source_name: ''
 source_type: 4

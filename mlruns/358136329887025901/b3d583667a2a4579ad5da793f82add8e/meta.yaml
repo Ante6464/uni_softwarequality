@@ -5,7 +5,7 @@ entry_point_name: ''
 experiment_id: '358136329887025901'
 lifecycle_stage: deleted
 run_id: b3d583667a2a4579ad5da793f82add8e
-run_name: llama31/pop_science/zero_shot_to-german_english_1
+run_name: llama31/pop_science/zero_shot_to-de_en_1
 run_uuid: b3d583667a2a4579ad5da793f82add8e
 source_name: ''
 source_type: 4

@@ -5,7 +5,7 @@ entry_point_name: ''
 experiment_id: '496790586212187793'
 lifecycle_stage: deleted
 run_id: eb0b6f967ed246298c4a6ab296e34ae9
-run_name: llama31/easy/zero_shot_to-english_german_1
+run_name: llama31/easy/zero_shot_to-en_de_1
 run_uuid: eb0b6f967ed246298c4a6ab296e34ae9
 source_name: ''
 source_type: 4

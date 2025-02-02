@@ -5,7 +5,7 @@ entry_point_name: ''
 experiment_id: '391944840061747289'
 lifecycle_stage: deleted
 run_id: cdb484d229b942a59beec756a2dc2ffa
-run_name: gemma/news_gen/zero_shot_to-english_german_2
+run_name: gemma/news_gen/zero_shot_to-en_de_2
 run_uuid: cdb484d229b942a59beec756a2dc2ffa
 source_name: ''
 source_type: 4
