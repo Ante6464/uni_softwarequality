@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/713590614913207437/acca28193e2242ef863bf357dd4bb696/artifacts
+end_time: 1738444970045
+entry_point_name: ''
+experiment_id: '713590614913207437'
+lifecycle_stage: active
+run_id: acca28193e2242ef863bf357dd4bb696
+run_name: gemma/news_spec/zero_shot_style_emotion_to-german_german_1
+run_uuid: acca28193e2242ef863bf357dd4bb696
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738444969866
+status: 3
+tags: []
+user_id: DCA

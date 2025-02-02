@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/378317835055917962/9271150a36484f2eb45f6146489222b1/artifacts
+end_time: 1738453130781
+entry_point_name: ''
+experiment_id: '378317835055917962'
+lifecycle_stage: active
+run_id: 9271150a36484f2eb45f6146489222b1
+run_name: llama31/news_gen/zero_shot_style_emotion_to-english_english_2
+run_uuid: 9271150a36484f2eb45f6146489222b1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738453130493
+status: 3
+tags: []
+user_id: DCA

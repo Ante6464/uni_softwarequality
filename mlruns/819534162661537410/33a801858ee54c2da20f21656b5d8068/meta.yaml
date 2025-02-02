@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/819534162661537410/33a801858ee54c2da20f21656b5d8068/artifacts
+end_time: 1738445208033
+entry_point_name: ''
+experiment_id: '819534162661537410'
+lifecycle_stage: active
+run_id: 33a801858ee54c2da20f21656b5d8068
+run_name: gemma/pop_science/zero_shot_style_persona_to-english_english_1
+run_uuid: 33a801858ee54c2da20f21656b5d8068
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738445207852
+status: 3
+tags: []
+user_id: DCA

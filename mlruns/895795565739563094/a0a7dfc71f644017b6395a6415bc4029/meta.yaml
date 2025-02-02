@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/895795565739563094/a0a7dfc71f644017b6395a6415bc4029/artifacts
+end_time: 1738445515694
+entry_point_name: ''
+experiment_id: '895795565739563094'
+lifecycle_stage: active
+run_id: a0a7dfc71f644017b6395a6415bc4029
+run_name: gemma/science/zero_shot_style_emotion_to-english_german_1
+run_uuid: a0a7dfc71f644017b6395a6415bc4029
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738445515505
+status: 3
+tags: []
+user_id: DCA

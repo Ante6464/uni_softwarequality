@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/553009959054917340/f52c0a4dc18f474c82d69b26cbb24a5b/artifacts
+end_time: 1738448756268
+entry_point_name: ''
+experiment_id: '553009959054917340'
+lifecycle_stage: active
+run_id: f52c0a4dc18f474c82d69b26cbb24a5b
+run_name: llama32/pop_science/zero_shot_style_emotion_to-english_german_2
+run_uuid: f52c0a4dc18f474c82d69b26cbb24a5b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738448756090
+status: 3
+tags: []
+user_id: DCA
