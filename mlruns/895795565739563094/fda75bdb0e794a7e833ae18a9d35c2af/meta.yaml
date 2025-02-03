@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/895795565739563094/fda75bdb0e794a7e833ae18a9d35c2af/artifacts
+end_time: 1738510829588
+entry_point_name: ''
+experiment_id: '895795565739563094'
+lifecycle_stage: active
+run_id: fda75bdb0e794a7e833ae18a9d35c2af
+run_name: gemma/science/zero_shot_to-german_german_1
+run_uuid: fda75bdb0e794a7e833ae18a9d35c2af
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738510829291
+status: 3
+tags: []
+user_id: Justin

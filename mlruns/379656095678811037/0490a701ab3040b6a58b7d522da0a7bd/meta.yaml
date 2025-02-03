@@ -1,0 +1,99 @@
+artifact_uri: mlflow-artifacts:/379656095678811037/0490a701ab3040b6a58b7d522da0a7bd/artifacts
+end_time: 1738576232591
+entry_point_name: ''
+experiment_id: '379656095678811037'
+lifecycle_stage: active
+run_id: 0490a701ab3040b6a58b7d522da0a7bd
+run_name: "llama32/news_gen/\n    'few_shot_complexity_to-de_en_1': {\n        'template':
+  'Please translate the following easy text from English to German. Do not ask any
+  questions or give any reasons, just provide the translation. Keep the original tone
+  of the text. Examples: English = \"Mom\" -> German = \"Mama\", English = \"nobody\"
+  -> German = \"niemand\", English = \"secret agent\" -> German = \"Geheimagent\",
+  English = \"mysterious\" -> German = \"rätselhaft\", English = \"suspicion\" ->
+  German = \"Vermutung\". Here is the text: \"{text}\"',\n        'prompt_language':
+  Language.ENGLISH,\n        'prompt_type': 'few_shot_complexity_style',\n        'complexities':
+  Complexity.EASY\n    },\n    'few_shot_complexity_to-de_de_1': {\n        'template':
+  'Bitte übersetze den folgenden einfachen Text von Englisch nach Deutsch. Bitte stelle
+  keine Gegenfragen und nenne keine Begründungen, sondern gib nur die Übersetzung
+  aus. Behalte den ursprünglichen Stil des Textes bei. Beispiele: Englisch = \"Mom\"
+  -> German = \"Mama\", Englisch = \"nobody\" -> German = \"niemand\", Englisch =
+  \"secret agent\" -> German = \"Geheimagent\", Englisch = \"mysterious\" -> German
+  = \"rätselhaft\", Englisch = \"suspicion\" -> German = \"Vermutung\". Hier ist der
+  Text: \"{text}\"',\n        'prompt_language': Language.GERMAN,\n        'prompt_type':
+  'few_shot_complexity_style',\n        'complexities': Complexity.EASY\n    },\n
+  \   'few_shot_complexity_to-de_en_2': {\n        'template': 'Please translate the
+  following news text from English to German. Do not ask any questions or give any
+  reasons, just provide the translation. Keep the original tone of the text. Examples:
+  English = \"officers\" -> German = \"Beamte\", English = \"pickpockets\" -> German
+  = \"Taschendiebe\", English = \"investigating\" -> German = \"ermitteln\", English
+  = \"cases\" -> German = \"Fälle\", English = \"week\" -> German = \"Woche\". Here
+  is the Text: \"{text}\"',\n        'prompt_language': Language.ENGLISH,\n        'prompt_type':
+  'few_shot_complexity_style',\n        'complexities': Complexity.NEWS_GEN\n    },\n
+  \   'few_shot_complexity_to-de_de_2': {\n        'template': 'Bitte übersetze den
+  folgenden Nachrichtentext von Englisch nach Deutsch. Bitte stelle keine Gegenfragen
+  und nenne keine Begründungen, sondern gib nur die Übersetzung aus. Behalte den ursprünglichen
+  Stil des Textes bei. Beispiele: Englisch = \"officers\" -> German = \"Beamte\",
+  Englisch = \"pickpockets\" -> German = \"Taschendiebe\", Englisch = \"investigating\"
+  -> German = \"ermitteln\", Englisch = \"cases\" -> German = \"Fälle\", Englisch
+  = \"week\" -> German = \"Woche\". Hier ist der Text: \"{text}\"',\n        'prompt_language':
+  Language.GERMAN,\n        'prompt_type': 'few_shot_complexity_style',\n        'complexities':
+  Complexity.NEWS_GEN\n    },\n    'few_shot_complexity_to-de_en_3': {\n        'template':
+  'Please translate the following news text from English to German. Do not ask any
+  questions or give any reasons, just provide the translation. Keep the original tone
+  of the text. Examples: English = \"head of state\" -> German = \"Staatschef\", English
+  = \"right\" -> German = \"Recht\", English = \"ensure\" -> German = \"gewährleisten\",
+  English = \"majority\" -> German = \"Mehrheit\", English = \"committee\" -> German
+  = \"Ausschuss\". Here is the text: \"{text}\"',\n        'prompt_language': Language.ENGLISH,\n
+  \       'prompt_type': 'few_shot_complexity_style',\n        'complexities': Complexity.NEWS_SPEC\n
+  \   },\n    'few_shot_complexity_to-de_de_3': {\n        'template': 'Bitte übersetze
+  den folgenden Nachrichtentext von Englisch nach Deutsch. Bitte stelle keine Gegenfragen
+  und nenne keine Begründungen, sondern gib nur die Übersetzung aus. Behalte den ursprünglichen
+  Stil des Textes bei. Beispiele: Englisch = \"head of state\" -> German = \"Staatschef\",
+  Englisch = \"right\" -> German = \"Recht\", Englisch = \"ensure\" -> German = \"gewährleisten\",
+  Englisch = \"majority\" -> German = \"Mehrheit\", Englisch = \"committee\" -> German
+  = \"Ausschuss\". Hier ist der Text: \"{text}\"',\n        'prompt_language': Language.GERMAN,\n
+  \       'prompt_type': 'few_shot_complexity_style',\n        'complexities': Complexity.NEWS_SPEC\n
+  \   },\n    'few_shot_complexity_to-de_en_4': {\n        'template': 'Please translate
+  the following scientific text from English to German. Do not ask any questions or
+  give any reasons, just provide the translation. Keep the original tone of the text.
+  Examples: English = \"climate change\" -> German = \"Klimawandel\", English = \"report\"
+  -> German = \"Bericht\", English = \"heat waves\" -> German = \"Hitzewellen\", English
+  = \"likelihood\" -> German = \"Wahrscheinlichkeit\", English = \"unprecedented\"
+  -> German = \"beispiellos\". Here is the text: \"{text}\"',\n        'prompt_language':
+  Language.ENGLISH,\n        'prompt_type': 'few_shot_complexity_style',\n        'complexities':
+  Complexity.POP_SCIENCE\n    },\n    'few_shot_complexity_to-de_de_4': {\n        'template':
+  'Bitte übersetze den folgenden wissenschaftlichen Text von Englisch nach Deutsch.
+  Bitte stelle keine Gegenfragen und nenne keine Begründungen, sondern gib nur die
+  Übersetzung aus. Behalte den ursprünglichen Stil des Textes bei. Beispiele: Englisch
+  = \"climate change\" -> German = \"Klimawandel\", Englisch = \"report\" -> German
+  = \"Bericht\", Englisch = \"heat waves\" -> German = \"Hitzewellen\", Englisch =
+  \"likelihood\" -> German = \"Wahrscheinlichkeit\", Englisch = \"unprecedented\"
+  -> German = \"beispiellos\". Hier ist der Text: \"{text}\"',\n        'prompt_language':
+  Language.GERMAN,\n        'prompt_type': 'few_shot_complexity_style',\n        'complexities':
+  Complexity.POP_SCIENCE\n    },\n    'few_shot_complexity_to-de_en_5': {\n        'template':
+  'Please translate the following scientific text from English to German. Do not ask
+  any questions or give any reasons, just provide the translation. Keep the original
+  tone of the text. Examples: English = \"simultaneous\" -> German = \"gleichzeitig\",
+  English = \"arcsecond-scale\" -> German = \"Bogensekundenmaßstab\", English = \"commissioning\"
+  -> German = \"Inbetriebnahme\", English = \"ambient-temperature\" -> German = \"Umgebungstemperatur\",
+  English = \"dispersion measure\" -> German = \"Dispersionsmaß\". Here is the text:
+  \"{text}\"',\n        'prompt_language': Language.ENGLISH,\n        'prompt_type':
+  'few_shot_complexity_style',\n        'complexities': Complexity.SCIENCE\n    },\n
+  \   'few_shot_complexity_to-de_de_5': {\n        'template': 'Bitte übersetze den
+  folgenden wissenschaftlichen Text von Englisch nach Deutsch. Bitte stelle keine
+  Gegenfragen und nenne keine Begründungen, sondern gib nur die Übersetzung aus. Behalte
+  den ursprünglichen Stil des Textes bei. Beispiele: Englisch = \"simultaneous\" ->
+  German = \"gleichzeitig\", Englisch = \"arcsecond-scale\" -> German = \"Bogensekundenmaßstab\",
+  Englisch = \"commissioning\" -> German = \"Inbetriebnahme\", Englisch = \"ambient-temperature\"
+  -> German = \"Umgebungstemperatur\", Englisch = \"dispersion measure\" -> German
+  = \"Dispersionsmaß\". Hier ist der Text: \"{text}\"',\n        'prompt_language':
+  Language.GERMAN,\n        'prompt_type': 'few_shot_complexity_style',\n        'complexities':
+  Complexity.SCIENCE\n    },\nfew_shot_emotion_style_to-de_en_1"
+run_uuid: 0490a701ab3040b6a58b7d522da0a7bd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738576232387
+status: 3
+tags: []
+user_id: Justin

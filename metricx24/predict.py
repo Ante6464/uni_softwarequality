@@ -133,7 +133,7 @@ def main() -> None:
     device = torch.device("cuda")
     per_device_batch_size = args.batch_size // torch.cuda.device_count()
   else:
-    device = torch.device("mps")
+    device = torch.device("cpu")
     per_device_batch_size = args.batch_size
 
   tokenizer = transformers.AutoTokenizer.from_pretrained(args.tokenizer)

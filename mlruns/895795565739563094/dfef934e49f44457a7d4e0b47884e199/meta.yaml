@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/895795565739563094/dfef934e49f44457a7d4e0b47884e199/artifacts
+end_time: 1738570266801
+entry_point_name: ''
+experiment_id: '895795565739563094'
+lifecycle_stage: active
+run_id: dfef934e49f44457a7d4e0b47884e199
+run_name: gemma/science/few_shot_to-de_de_1
+run_uuid: dfef934e49f44457a7d4e0b47884e199
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738570266566
+status: 3
+tags: []
+user_id: Justin

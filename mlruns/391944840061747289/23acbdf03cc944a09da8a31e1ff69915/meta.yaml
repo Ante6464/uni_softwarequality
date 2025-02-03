@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/391944840061747289/23acbdf03cc944a09da8a31e1ff69915/artifacts
+end_time: 1738565857473
+entry_point_name: ''
+experiment_id: '391944840061747289'
+lifecycle_stage: active
+run_id: 23acbdf03cc944a09da8a31e1ff69915
+run_name: gemma/news_gen/few_shot_emotion_style_to-en_de_2
+run_uuid: 23acbdf03cc944a09da8a31e1ff69915
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738565857261
+status: 3
+tags: []
+user_id: Justin

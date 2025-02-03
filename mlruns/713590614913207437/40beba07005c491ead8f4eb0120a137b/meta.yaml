@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/713590614913207437/40beba07005c491ead8f4eb0120a137b/artifacts
+end_time: 1738510043697
+entry_point_name: ''
+experiment_id: '713590614913207437'
+lifecycle_stage: active
+run_id: 40beba07005c491ead8f4eb0120a137b
+run_name: gemma/news_spec/zero_shot_to-english_german_1
+run_uuid: 40beba07005c491ead8f4eb0120a137b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738510043478
+status: 3
+tags: []
+user_id: Justin

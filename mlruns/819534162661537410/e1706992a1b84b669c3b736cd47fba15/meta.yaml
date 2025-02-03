@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/819534162661537410/e1706992a1b84b669c3b736cd47fba15/artifacts
+end_time: 1738510198182
+entry_point_name: ''
+experiment_id: '819534162661537410'
+lifecycle_stage: active
+run_id: e1706992a1b84b669c3b736cd47fba15
+run_name: gemma/pop_science/zero_shot_to-english_english_1
+run_uuid: e1706992a1b84b669c3b736cd47fba15
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738510197963
+status: 3
+tags: []
+user_id: Justin

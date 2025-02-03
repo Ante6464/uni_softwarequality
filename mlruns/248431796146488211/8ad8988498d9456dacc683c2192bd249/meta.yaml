@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/248431796146488211/8ad8988498d9456dacc683c2192bd249/artifacts
+end_time: 1738585279608
+entry_point_name: ''
+experiment_id: '248431796146488211'
+lifecycle_stage: active
+run_id: 8ad8988498d9456dacc683c2192bd249
+run_name: llama32/science/few_shot_emotion_style_to-en_de_1
+run_uuid: 8ad8988498d9456dacc683c2192bd249
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738585279420
+status: 3
+tags: []
+user_id: Justin

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/391944840061747289/f60304afc8ea4bb79f839897170ce5ef/artifacts
+end_time: 1738527438896
+entry_point_name: ''
+experiment_id: '391944840061747289'
+lifecycle_stage: active
+run_id: f60304afc8ea4bb79f839897170ce5ef
+run_name: gemma/news_gen/zero_shot_to-en_en_1
+run_uuid: f60304afc8ea4bb79f839897170ce5ef
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738527438678
+status: 3
+tags: []
+user_id: Justin

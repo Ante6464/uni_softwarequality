@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/429765178055128713/a573e025e1964120b7a48d8ffb82bc95/artifacts
+end_time: 1738540121743
+entry_point_name: ''
+experiment_id: '429765178055128713'
+lifecycle_stage: active
+run_id: a573e025e1964120b7a48d8ffb82bc95
+run_name: gemma/easy/few_shot_to-en_en_1
+run_uuid: a573e025e1964120b7a48d8ffb82bc95
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738540121506
+status: 3
+tags: []
+user_id: Justin
