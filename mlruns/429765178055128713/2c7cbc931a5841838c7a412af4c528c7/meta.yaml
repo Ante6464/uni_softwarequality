@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/429765178055128713/2c7cbc931a5841838c7a412af4c528c7/artifacts
+deleted_time: 1738514552929
+end_time: 1738513872794
+entry_point_name: ''
+experiment_id: '429765178055128713'
+lifecycle_stage: deleted
+run_id: 2c7cbc931a5841838c7a412af4c528c7
+run_name: gemma/easy/zero_shot_style_reread_to-en_de_1
+run_uuid: 2c7cbc931a5841838c7a412af4c528c7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738513872615
+status: 3
+tags: []
+user_id: DCA

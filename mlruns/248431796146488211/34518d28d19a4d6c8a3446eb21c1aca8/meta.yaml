@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/248431796146488211/34518d28d19a4d6c8a3446eb21c1aca8/artifacts
+end_time: 1738530210638
+entry_point_name: ''
+experiment_id: '248431796146488211'
+lifecycle_stage: active
+run_id: 34518d28d19a4d6c8a3446eb21c1aca8
+run_name: llama32/science/zero_shot_reread_to-en_en_1
+run_uuid: 34518d28d19a4d6c8a3446eb21c1aca8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738530210466
+status: 3
+tags: []
+user_id: DCA

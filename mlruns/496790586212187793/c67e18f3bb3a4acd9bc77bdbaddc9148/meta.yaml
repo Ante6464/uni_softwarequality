@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/496790586212187793/c67e18f3bb3a4acd9bc77bdbaddc9148/artifacts
+end_time: 1738574454802
+entry_point_name: ''
+experiment_id: '496790586212187793'
+lifecycle_stage: active
+run_id: c67e18f3bb3a4acd9bc77bdbaddc9148
+run_name: llama31/easy/few_shot_to-de_de_1
+run_uuid: c67e18f3bb3a4acd9bc77bdbaddc9148
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738574454611
+status: 3
+tags: []
+user_id: DCA

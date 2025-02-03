@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/496790586212187793/3d428cb1a3ac4218aed2359185052959/artifacts
+end_time: 1738575245373
+entry_point_name: ''
+experiment_id: '496790586212187793'
+lifecycle_stage: active
+run_id: 3d428cb1a3ac4218aed2359185052959
+run_name: llama31/easy/few_shot_emotion_style_to-de_de_1
+run_uuid: 3d428cb1a3ac4218aed2359185052959
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738575245181
+status: 3
+tags: []
+user_id: DCA
