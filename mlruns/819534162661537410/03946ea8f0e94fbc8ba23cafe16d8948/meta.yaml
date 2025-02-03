@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/819534162661537410/03946ea8f0e94fbc8ba23cafe16d8948/artifacts
+end_time: 1738596486544
+entry_point_name: ''
+experiment_id: '819534162661537410'
+lifecycle_stage: active
+run_id: 03946ea8f0e94fbc8ba23cafe16d8948
+run_name: gemma/pop_science/few_shot_complexity_reread_to-en_en_4
+run_uuid: 03946ea8f0e94fbc8ba23cafe16d8948
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738596486323
+status: 3
+tags: []
+user_id: DCA
