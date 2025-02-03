@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/278262578605400461/567b6cd9ada0469688cbf7a37ac11c9a/artifacts
+end_time: 1738581377885
+entry_point_name: ''
+experiment_id: '278262578605400461'
+lifecycle_stage: active
+run_id: 567b6cd9ada0469688cbf7a37ac11c9a
+run_name: llama31/news_spec/few_shot_role_style_to-de_en_1
+run_uuid: 567b6cd9ada0469688cbf7a37ac11c9a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738581377719
+status: 3
+tags: []
+user_id: DCA
