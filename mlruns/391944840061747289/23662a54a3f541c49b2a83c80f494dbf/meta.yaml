@@ -4,7 +4,7 @@ entry_point_name: ''
 experiment_id: '391944840061747289'
 lifecycle_stage: active
 run_id: 23662a54a3f541c49b2a83c80f494dbf
-run_name: gemma/news_gen/few_shot_complexity_to-en_de_2
+run_name: gemma/news_gen/few_shot_complexity_style_to-en_de_2
 run_uuid: 23662a54a3f541c49b2a83c80f494dbf
 source_name: ''
 source_type: 4

@@ -4,7 +4,7 @@ entry_point_name: ''
 experiment_id: '379656095678811037'
 lifecycle_stage: active
 run_id: 78b776e935484b20a1c5ba4862a38fd9
-run_name: "llama32/news_gen/\n    'few_shot_complexity_to-en_en_1': {\n        'template':
+run_name: "llama32/news_gen/\n    'few_shot_complexity_style_to-en_en_1': {\n        'template':
   'Please translate the following easy text from German to English. Do not ask any
   questions or give any reasons, just provide the translation. Keep the original tone
   of the text. Examples: German = \"Mama\" -> English = \"Mom\", German = \"niemand\"
@@ -12,7 +12,7 @@ run_name: "llama32/news_gen/\n    'few_shot_complexity_to-en_en_1': {\n        '
   German = \"rätselhaft\" -> English = \"mysterious\", German = \"Vermutung\" -> English
   = \"suspicion\". Here is the text: \"{text}\"',\n        'prompt_language': Language.ENGLISH,\n
   \       'prompt_type': 'few_shot_complexity_style',\n        'complexities': Complexity.EASY\n
-  \   },\n    'few_shot_complexity_to-en_de_1': {\n        'template': 'Bitte übersetze
+  \   },\n    'few_shot_complexity_style_to-en_de_1': {\n        'template': 'Bitte übersetze
   den folgenden einfachen Text von Deutsch nach Englisch. Bitte stelle keine Gegenfragen
   und nenne keine Begründungen, sondern gib nur die Übersetzung aus. Behalte den ursprünglichen
   Stil des Textes bei. Examples: Deutsch = \"Mama\" -> Englisch = \"Mom\", Deutsch
@@ -20,7 +20,7 @@ run_name: "llama32/news_gen/\n    'few_shot_complexity_to-en_en_1': {\n        '
   \"secret agent\", Deutsch = \"rätselhaft\" -> Englisch = \"mysterious\", Deutsch
   = \"Vermutung\" -> Englisch = \"suspicion\". Hier ist der Text: \"{text}\"',\n        'prompt_language':
   Language.GERMAN,\n        'prompt_type': 'few_shot_complexity_style',\n        'complexities':
-  Complexity.EASY\n    },\n    'few_shot_complexity_to-en_en_2': {\n        'template':
+  Complexity.EASY\n    },\n    'few_shot_complexity_style_to-en_en_2': {\n        'template':
   'Please translate the following news text from German to English. Do not ask any
   questions or give any reasons, just provide the translation. Keep the original tone
   of the text. Examples: German = \"Beamte\" -> English = \"officers\", German = \"Taschendiebe\"
@@ -28,7 +28,7 @@ run_name: "llama32/news_gen/\n    'few_shot_complexity_to-en_en_1': {\n        '
   German = \"Fälle\" -> English = \"cases\", German = \"Woche\" -> English = \"week\".
   Here is the text: \"{text}\"',\n        'prompt_language': Language.ENGLISH,\n        'prompt_type':
   'few_shot_complexity_style',\n        'complexities': Complexity.NEWS_GEN\n    },\n
-  \   'few_shot_complexity_to-en_de_2': {\n        'template': 'Bitte übersetze den
+  \   'few_shot_complexity_style_to-en_de_2': {\n        'template': 'Bitte übersetze den
   folgenden Nachrichtentext von Deutsch nach Englisch. Bitte stelle keine Gegenfragen
   und nenne keine Begründungen, sondern gib nur die Übersetzung aus. Behalte den ursprünglichen
   Stil des Textes bei. Examples: Deutsch = \"Beamte\" -> Englisch = \"officers\",
@@ -36,7 +36,7 @@ run_name: "llama32/news_gen/\n    'few_shot_complexity_to-en_en_1': {\n        '
   -> Englisch = \"investigating\", Deutsch = \"Fälle\" -> Englisch = \"cases\", Deutsch
   = \"Woche\" -> Englisch = \"week\". Hier ist der Text: \"{text}\"',\n        'prompt_language':
   Language.GERMAN,\n        'prompt_type': 'few_shot_complexity_style',\n        'complexities':
-  Complexity.NEWS_GEN\n    },\n    'few_shot_complexity_to-en_en_3': {\n        'template':
+  Complexity.NEWS_GEN\n    },\n    'few_shot_complexity_style_to-en_en_3': {\n        'template':
   'Please translate the following news text from German to English. Do not ask any
   questions or give any reasons, just provide the translation. Keep the original tone
   of the text. Examples: German = \"Staatschef\" -> English = \"head of state\", German
@@ -44,7 +44,7 @@ run_name: "llama32/news_gen/\n    'few_shot_complexity_to-en_en_1': {\n        '
   German = \"Mehrheit\" -> English = \"majority\", German = \"Ausschuss\" -> English
   = \"committee\". Here is the text: \"{text}\"',\n        'prompt_language': Language.ENGLISH,\n
   \       'prompt_type': 'few_shot_complexity_style',\n        'complexities': Complexity.NEWS_SPEC\n
-  \   },\n    'few_shot_complexity_to-en_de_3': {\n        'template': 'Bitte übersetze
+  \   },\n    'few_shot_complexity_style_to-en_de_3': {\n        'template': 'Bitte übersetze
   den folgenden Nachrichtentext von Deutsch nach Englisch. Bitte stelle keine Gegenfragen
   und nenne keine Begründungen, sondern gib nur die Übersetzung aus. Behalte den ursprünglichen
   Stil des Textes bei. Examples: Deutsch = \"Staatschef\" -> Englisch = \"head of
@@ -52,7 +52,7 @@ run_name: "llama32/news_gen/\n    'few_shot_complexity_to-en_en_1': {\n        '
   -> Englisch = \"ensure\", Deutsch = \"Mehrheit\" -> Englisch = \"majority\", Deutsch
   = \"Ausschuss\" -> Englisch = \"committee\". Hier ist der Text: \"{text}\"',\n        'prompt_language':
   Language.GERMAN,\n        'prompt_type': 'few_shot_complexity_style',\n        'complexities':
-  Complexity.NEWS_SPEC\n    },\n    'few_shot_complexity_to-en_en_4': {\n        'template':
+  Complexity.NEWS_SPEC\n    },\n    'few_shot_complexity_style_to-en_en_4': {\n        'template':
   'Please translate the following scientific text from German to English. Do not ask
   any questions or give any reasons, just provide the translation. Keep the original
   tone of the text. Examples: German = \"Klimawandel\" -> English = \"climate change\",
@@ -60,7 +60,7 @@ run_name: "llama32/news_gen/\n    'few_shot_complexity_to-en_en_1': {\n        '
   = \"heat waves\", German = \"Wahrscheinlichkeit\" -> English = \"likelihood\", German
   = \"beispiellos\" -> English = \"unprecedented\". Here is the text: \"{text}\"',\n
   \       'prompt_language': Language.ENGLISH,\n        'prompt_type': 'few_shot_complexity_style',\n
-  \       'complexities': Complexity.POP_SCIENCE\n    },\n    'few_shot_complexity_to-en_de_4':
+  \       'complexities': Complexity.POP_SCIENCE\n    },\n    'few_shot_complexity_style_to-en_de_4':
   {\n        'template': 'Bitte übersetze den folgenden wissenschaftlichen Text von
   Deutsch nach Englisch. Bitte stelle keine Gegenfragen und nenne keine Begründungen,
   sondern gib nur die Übersetzung aus. Behalte den ursprünglichen Stil des Textes
@@ -69,7 +69,7 @@ run_name: "llama32/news_gen/\n    'few_shot_complexity_to-en_en_1': {\n        '
   \"heat waves\", Deutsch = \"Wahrscheinlichkeit\" -> Englisch = \"likelihood\", Deutsch
   = \"beispiellos\" -> Englisch = \"unprecedented\". Hier ist der Text: \"{text}\"',\n
   \       'prompt_language': Language.GERMAN,\n        'prompt_type': 'few_shot_complexity_style',\n
-  \       'complexities': Complexity.POP_SCIENCE\n    },\n    'few_shot_complexity_to-en_en_5':
+  \       'complexities': Complexity.POP_SCIENCE\n    },\n    'few_shot_complexity_style_to-en_en_5':
   {\n        'template': 'Please translate the following scientific text from German
   to English. Do not ask any questions or give any reasons, just provide the translation.
   Keep the original tone of the text. Examples: German = \"gleichzeitig\" -> English
@@ -78,7 +78,7 @@ run_name: "llama32/news_gen/\n    'few_shot_complexity_to-en_en_1': {\n        '
   -> English = \"ambient-temperature\", German = \"Dispersionsmaß\" -> English = \"dispersion
   measure\". Here is the text: \"{text}\"',\n        'prompt_language': Language.ENGLISH,\n
   \       'prompt_type': 'few_shot_complexity_style',\n        'complexities': Complexity.SCIENCE\n
-  \   },\n    'few_shot_complexity_to-en_de_5': {\n        'template': 'Bitte übersetze
+  \   },\n    'few_shot_complexity_style_to-en_de_5': {\n        'template': 'Bitte übersetze
   den folgenden wissenschaftlichen Text von Deutsch nach Englisch. Bitte stelle keine
   Gegenfragen und nenne keine Begründungen, sondern gib nur die Übersetzung aus. Behalte
   den ursprünglichen Stil des Textes bei. Examples: Deutsch = \"gleichzeitig\" ->

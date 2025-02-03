@@ -1,59 +1,59 @@
 gemma/easy/
-    'few_shot_complexity_to-en_en_1': {
+    'few_shot_complexity_style_to-en_en_1': {
         'template': 'Please translate the following easy text from German to English. Do not ask any questions or give any reasons, just provide the translation. Keep the original tone of the text. Examples: German = "Mama" -> English = "Mom", German = "niemand" -> English = "nobody", German = "Geheimagent" -> English = "secret agent", German = "rätselhaft" -> English = "mysterious", German = "Vermutung" -> English = "suspicion". Here is the text: "{text}"',
         'prompt_language': Language.ENGLISH,
         'prompt_type': 'few_shot_complexity_style',
         'complexities': Complexity.EASY
     },
-    'few_shot_complexity_to-en_de_1': {
+    'few_shot_complexity_style_to-en_de_1': {
         'template': 'Bitte übersetze den folgenden einfachen Text von Deutsch nach Englisch. Bitte stelle keine Gegenfragen und nenne keine Begründungen, sondern gib nur die Übersetzung aus. Behalte den ursprünglichen Stil des Textes bei. Examples: Deutsch = "Mama" -> Englisch = "Mom", Deutsch = "niemand" -> Englisch = "nobody", Deutsch = "Geheimagent" -> Englisch = "secret agent", Deutsch = "rätselhaft" -> Englisch = "mysterious", Deutsch = "Vermutung" -> Englisch = "suspicion". Hier ist der Text: "{text}"',
         'prompt_language': Language.GERMAN,
         'prompt_type': 'few_shot_complexity_style',
         'complexities': Complexity.EASY
     },
-    'few_shot_complexity_to-en_en_2': {
+    'few_shot_complexity_style_to-en_en_2': {
         'template': 'Please translate the following news text from German to English. Do not ask any questions or give any reasons, just provide the translation. Keep the original tone of the text. Examples: German = "Beamte" -> English = "officers", German = "Taschendiebe" -> English = "pickpockets", German = "ermitteln" -> English = "investigating", German = "Fälle" -> English = "cases", German = "Woche" -> English = "week". Here is the text: "{text}"',
         'prompt_language': Language.ENGLISH,
         'prompt_type': 'few_shot_complexity_style',
         'complexities': Complexity.NEWS_GEN
     },
-    'few_shot_complexity_to-en_de_2': {
+    'few_shot_complexity_style_to-en_de_2': {
         'template': 'Bitte übersetze den folgenden Nachrichtentext von Deutsch nach Englisch. Bitte stelle keine Gegenfragen und nenne keine Begründungen, sondern gib nur die Übersetzung aus. Behalte den ursprünglichen Stil des Textes bei. Examples: Deutsch = "Beamte" -> Englisch = "officers", Deutsch = "Taschendiebe" -> Englisch = "pickpockets", Deutsch = "ermitteln" -> Englisch = "investigating", Deutsch = "Fälle" -> Englisch = "cases", Deutsch = "Woche" -> Englisch = "week". Hier ist der Text: "{text}"',
         'prompt_language': Language.GERMAN,
         'prompt_type': 'few_shot_complexity_style',
         'complexities': Complexity.NEWS_GEN
     },
-    'few_shot_complexity_to-en_en_3': {
+    'few_shot_complexity_style_to-en_en_3': {
         'template': 'Please translate the following news text from German to English. Do not ask any questions or give any reasons, just provide the translation. Keep the original tone of the text. Examples: German = "Staatschef" -> English = "head of state", German = "Recht" -> English = "right", German = "gewährleisten" -> English = "ensure", German = "Mehrheit" -> English = "majority", German = "Ausschuss" -> English = "committee". Here is the text: "{text}"',
         'prompt_language': Language.ENGLISH,
         'prompt_type': 'few_shot_complexity_style',
         'complexities': Complexity.NEWS_SPEC
     },
-    'few_shot_complexity_to-en_de_3': {
+    'few_shot_complexity_style_to-en_de_3': {
         'template': 'Bitte übersetze den folgenden Nachrichtentext von Deutsch nach Englisch. Bitte stelle keine Gegenfragen und nenne keine Begründungen, sondern gib nur die Übersetzung aus. Behalte den ursprünglichen Stil des Textes bei. Examples: Deutsch = "Staatschef" -> Englisch = "head of state", Deutsch = "Recht" -> Englisch = "right", Deutsch = "gewährleisten" -> Englisch = "ensure", Deutsch = "Mehrheit" -> Englisch = "majority", Deutsch = "Ausschuss" -> Englisch = "committee". Hier ist der Text: "{text}"',
         'prompt_language': Language.GERMAN,
         'prompt_type': 'few_shot_complexity_style',
         'complexities': Complexity.NEWS_SPEC
     },
-    'few_shot_complexity_to-en_en_4': {
+    'few_shot_complexity_style_to-en_en_4': {
         'template': 'Please translate the following scientific text from German to English. Do not ask any questions or give any reasons, just provide the translation. Keep the original tone of the text. Examples: German = "Klimawandel" -> English = "climate change", German = "Bericht" -> English = "report", German = "Hitzewellen" -> English = "heat waves", German = "Wahrscheinlichkeit" -> English = "likelihood", German = "beispiellos" -> English = "unprecedented". Here is the text: "{text}"',
         'prompt_language': Language.ENGLISH,
         'prompt_type': 'few_shot_complexity_style',
         'complexities': Complexity.POP_SCIENCE
     },
-    'few_shot_complexity_to-en_de_4': {
+    'few_shot_complexity_style_to-en_de_4': {
         'template': 'Bitte übersetze den folgenden wissenschaftlichen Text von Deutsch nach Englisch. Bitte stelle keine Gegenfragen und nenne keine Begründungen, sondern gib nur die Übersetzung aus. Behalte den ursprünglichen Stil des Textes bei. Examples: Deutsch = "Klimawandel" -> Englisch = "climate change", Deutsch = "Bericht" -> Englisch = "report", Deutsch = "Hitzewellen" -> Englisch = "heat waves", Deutsch = "Wahrscheinlichkeit" -> Englisch = "likelihood", Deutsch = "beispiellos" -> Englisch = "unprecedented". Hier ist der Text: "{text}"',
         'prompt_language': Language.GERMAN,
         'prompt_type': 'few_shot_complexity_style',
         'complexities': Complexity.POP_SCIENCE
     },
-    'few_shot_complexity_to-en_en_5': {
+    'few_shot_complexity_style_to-en_en_5': {
         'template': 'Please translate the following scientific text from German to English. Do not ask any questions or give any reasons, just provide the translation. Keep the original tone of the text. Examples: German = "gleichzeitig" -> English = "simultaneous", German = "Bogensekundenmaßstab" -> English = "arcsecond-scale", German = "Inbetriebnahme" -> English = "commissioning", German = "Umgebungstemperatur" -> English = "ambient-temperature", German = "Dispersionsmaß" -> English = "dispersion measure". Here is the text: "{text}"',
         'prompt_language': Language.ENGLISH,
         'prompt_type': 'few_shot_complexity_style',
         'complexities': Complexity.SCIENCE
     },
-    'few_shot_complexity_to-en_de_5': {
+    'few_shot_complexity_style_to-en_de_5': {
         'template': 'Bitte übersetze den folgenden wissenschaftlichen Text von Deutsch nach Englisch. Bitte stelle keine Gegenfragen und nenne keine Begründungen, sondern gib nur die Übersetzung aus. Behalte den ursprünglichen Stil des Textes bei. Examples: Deutsch = "gleichzeitig" -> Englisch = "simultaneous", Deutsch = "Bogensekundenmaßstab" -> Englisch = "arcsecond-scale", Deutsch = "Inbetriebnahme" -> Englisch = "commissioning", Deutsch = "Umgebungstemperatur" -> Englisch = "ambient-temperature", Deutsch = "Dispersionsmaß" -> Englisch = "dispersion measure". Hier ist der Text: "{text}"',
         'prompt_language': Language.GERMAN,
         'prompt_type': 'few_shot_complexity_style',
