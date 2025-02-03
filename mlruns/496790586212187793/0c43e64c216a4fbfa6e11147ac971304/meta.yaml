@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/496790586212187793/0c43e64c216a4fbfa6e11147ac971304/artifacts
+end_time: 1738533162253
+entry_point_name: ''
+experiment_id: '496790586212187793'
+lifecycle_stage: active
+run_id: 0c43e64c216a4fbfa6e11147ac971304
+run_name: llama31/easy/zero_shot_cot_to-en_de_1
+run_uuid: 0c43e64c216a4fbfa6e11147ac971304
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738533162066
+status: 3
+tags: []
+user_id: DCA
