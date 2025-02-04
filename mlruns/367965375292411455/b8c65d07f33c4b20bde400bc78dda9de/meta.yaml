@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/367965375292411455/b8c65d07f33c4b20bde400bc78dda9de/artifacts
+end_time: 1738684442011
+entry_point_name: ''
+experiment_id: '367965375292411455'
+lifecycle_stage: active
+run_id: b8c65d07f33c4b20bde400bc78dda9de
+run_name: aya23/pop_science/few_shot_to-de_en_1
+run_uuid: b8c65d07f33c4b20bde400bc78dda9de
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738684441831
+status: 3
+tags: []
+user_id: DCA
