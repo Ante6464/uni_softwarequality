@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/493718989855892793/4a92e5b06d404660aec4e18f02805765/artifacts
+end_time: 1738751761046
+entry_point_name: ''
+experiment_id: '493718989855892793'
+lifecycle_stage: active
+run_id: 4a92e5b06d404660aec4e18f02805765
+run_name: aya23/science/few_shot_complexity_style_to-en_en_5
+run_uuid: 4a92e5b06d404660aec4e18f02805765
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738751760836
+status: 3
+tags: []
+user_id: DCA
