@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/839134954702910035/2d1a6a2cb4af444c90fca17c66a7867e/artifacts
+end_time: 1738943027189
+entry_point_name: ''
+experiment_id: '839134954702910035'
+lifecycle_stage: active
+run_id: 2d1a6a2cb4af444c90fca17c66a7867e
+run_name: aya23/news_spec/zero_shot_style_emotion_to-de_de_1
+run_uuid: 2d1a6a2cb4af444c90fca17c66a7867e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738943026941
+status: 3
+tags: []
+user_id: DCA

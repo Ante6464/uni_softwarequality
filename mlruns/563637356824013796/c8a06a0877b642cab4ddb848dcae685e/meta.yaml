@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/563637356824013796/c8a06a0877b642cab4ddb848dcae685e/artifacts
+end_time: 1738931968329
+entry_point_name: ''
+experiment_id: '563637356824013796'
+lifecycle_stage: active
+run_id: c8a06a0877b642cab4ddb848dcae685e
+run_name: aya23/easy/zero_shot_style_emotion_to-en_de_1
+run_uuid: c8a06a0877b642cab4ddb848dcae685e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738931968100
+status: 3
+tags: []
+user_id: DCA
