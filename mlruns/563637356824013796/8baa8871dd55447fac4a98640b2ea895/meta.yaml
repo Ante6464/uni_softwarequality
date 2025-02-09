@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/563637356824013796/8baa8871dd55447fac4a98640b2ea895/artifacts
+end_time: 1739017791506
+entry_point_name: ''
+experiment_id: '563637356824013796'
+lifecycle_stage: active
+run_id: 8baa8871dd55447fac4a98640b2ea895
+run_name: aya23/easy/zero_shot_cot_to-de_en_1
+run_uuid: 8baa8871dd55447fac4a98640b2ea895
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739017791270
+status: 3
+tags: []
+user_id: DCA

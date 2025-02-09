@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/334439494074171389/b88bb3c60d834a85bc40a4487666a33d/artifacts
+end_time: 1739024242340
+entry_point_name: ''
+experiment_id: '334439494074171389'
+lifecycle_stage: active
+run_id: b88bb3c60d834a85bc40a4487666a33d
+run_name: aya23/news_gen/zero_shot_rar_to-de_en_1
+run_uuid: b88bb3c60d834a85bc40a4487666a33d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739024242163
+status: 3
+tags: []
+user_id: DCA

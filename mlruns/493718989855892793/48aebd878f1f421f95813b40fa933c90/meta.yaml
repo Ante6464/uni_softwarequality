@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/493718989855892793/48aebd878f1f421f95813b40fa933c90/artifacts
+end_time: 1739043956138
+entry_point_name: ''
+experiment_id: '493718989855892793'
+lifecycle_stage: active
+run_id: 48aebd878f1f421f95813b40fa933c90
+run_name: aya23/science/zero_shot_style_persona_reread_to-en_de_1
+run_uuid: 48aebd878f1f421f95813b40fa933c90
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739043955883
+status: 3
+tags: []
+user_id: DCA

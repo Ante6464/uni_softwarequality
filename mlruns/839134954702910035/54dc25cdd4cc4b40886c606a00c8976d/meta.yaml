@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/839134954702910035/54dc25cdd4cc4b40886c606a00c8976d/artifacts
+end_time: 1739031906962
+entry_point_name: ''
+experiment_id: '839134954702910035'
+lifecycle_stage: active
+run_id: 54dc25cdd4cc4b40886c606a00c8976d
+run_name: aya23/news_spec/zero_shot_cot_to-de_de_1
+run_uuid: 54dc25cdd4cc4b40886c606a00c8976d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739031906695
+status: 3
+tags: []
+user_id: DCA
