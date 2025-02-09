@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/429765178055128713/3723a8d838b84e83a59faf66a29b9cbb/artifacts
+end_time: 1739086643902
+entry_point_name: ''
+experiment_id: '429765178055128713'
+lifecycle_stage: active
+run_id: 3723a8d838b84e83a59faf66a29b9cbb
+run_name: gemma/easy/zero_shot_cot_to-de_en_2
+run_uuid: 3723a8d838b84e83a59faf66a29b9cbb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739086643690
+status: 3
+tags: []
+user_id: DCA
