@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/367965375292411455/b213952d56d44bb0a9be6350f7dc374b/artifacts
+end_time: 1739121452182
+entry_point_name: ''
+experiment_id: '367965375292411455'
+lifecycle_stage: active
+run_id: b213952d56d44bb0a9be6350f7dc374b
+run_name: aya23/pop_science/zero_shot_cot_to-de_de_2
+run_uuid: b213952d56d44bb0a9be6350f7dc374b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739121451991
+status: 3
+tags: []
+user_id: DCA
