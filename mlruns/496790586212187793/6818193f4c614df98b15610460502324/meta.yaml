@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/496790586212187793/6818193f4c614df98b15610460502324/artifacts
+end_time: 1739162599881
+entry_point_name: ''
+experiment_id: '496790586212187793'
+lifecycle_stage: active
+run_id: 6818193f4c614df98b15610460502324
+run_name: llama31/easy/few_shot_sentences_to-de_en_1
+run_uuid: 6818193f4c614df98b15610460502324
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739162599625
+status: 3
+tags: []
+user_id: Justin

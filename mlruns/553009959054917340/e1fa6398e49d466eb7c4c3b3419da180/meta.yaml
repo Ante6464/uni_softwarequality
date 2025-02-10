@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/553009959054917340/e1fa6398e49d466eb7c4c3b3419da180/artifacts
+end_time: 1739152518259
+entry_point_name: ''
+experiment_id: '553009959054917340'
+lifecycle_stage: active
+run_id: e1fa6398e49d466eb7c4c3b3419da180
+run_name: llama32/pop_science/few_shot_style_persona_to-de_de_2
+run_uuid: e1fa6398e49d466eb7c4c3b3419da180
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739152517941
+status: 3
+tags: []
+user_id: Justin

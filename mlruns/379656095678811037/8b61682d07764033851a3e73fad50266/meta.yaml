@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/379656095678811037/8b61682d07764033851a3e73fad50266/artifacts
+end_time: 1739147270049
+entry_point_name: ''
+experiment_id: '379656095678811037'
+lifecycle_stage: active
+run_id: 8b61682d07764033851a3e73fad50266
+run_name: llama32/news_gen/few_shot_to-de_en_5
+run_uuid: 8b61682d07764033851a3e73fad50266
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739147269820
+status: 3
+tags: []
+user_id: Justin

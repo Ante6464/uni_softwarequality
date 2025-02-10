@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/958464439758456234/40f06e1dc72a491088fd6906a7c6201a/artifacts
+end_time: 1739187654768
+entry_point_name: ''
+experiment_id: '958464439758456234'
+lifecycle_stage: active
+run_id: 40f06e1dc72a491088fd6906a7c6201a
+run_name: llama31/science/few_shot_to-de_en_5
+run_uuid: 40f06e1dc72a491088fd6906a7c6201a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739187654456
+status: 3
+tags: []
+user_id: Justin

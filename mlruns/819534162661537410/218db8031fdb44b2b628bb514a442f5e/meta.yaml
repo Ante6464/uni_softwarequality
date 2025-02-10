@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/819534162661537410/218db8031fdb44b2b628bb514a442f5e/artifacts
+end_time: 1739142020268
+entry_point_name: ''
+experiment_id: '819534162661537410'
+lifecycle_stage: active
+run_id: 218db8031fdb44b2b628bb514a442f5e
+run_name: gemma/pop_science/few_shot_sentences_to-de_de_1
+run_uuid: 218db8031fdb44b2b628bb514a442f5e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739142019967
+status: 3
+tags: []
+user_id: Justin

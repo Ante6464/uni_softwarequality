@@ -1,8 +1,9 @@
 artifact_uri: mlflow-artifacts:/429765178055128713/740b6a5eaaf2498c9ee72f6c4743bd24/artifacts
+deleted_time: 1738593867649
 end_time: 1738565203539
 entry_point_name: ''
 experiment_id: '429765178055128713'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 740b6a5eaaf2498c9ee72f6c4743bd24
 run_name: "gemma/easy/\n    'few_shot_complexity_style_to-de_en_1': {\n        'template':
   'Please translate the following easy text from English to German. Do not ask any
