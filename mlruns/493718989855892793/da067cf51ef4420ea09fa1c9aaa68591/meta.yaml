@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/493718989855892793/da067cf51ef4420ea09fa1c9aaa68591/artifacts
+end_time: 1739200690671
+entry_point_name: ''
+experiment_id: '493718989855892793'
+lifecycle_stage: active
+run_id: da067cf51ef4420ea09fa1c9aaa68591
+run_name: aya23/science/few_shot_sentences_to-en_de_1
+run_uuid: da067cf51ef4420ea09fa1c9aaa68591
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739200690379
+status: 3
+tags: []
+user_id: DCA
