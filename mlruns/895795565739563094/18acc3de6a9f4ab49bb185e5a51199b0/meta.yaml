@@ -1,8 +1,9 @@
 artifact_uri: mlflow-artifacts:/895795565739563094/18acc3de6a9f4ab49bb185e5a51199b0/artifacts
+deleted_time: 1739215856871
 end_time: 1739143198591
 entry_point_name: ''
 experiment_id: '895795565739563094'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 18acc3de6a9f4ab49bb185e5a51199b0
 run_name: gemma/science/few_shot_style_persona_to-en_de_2
 run_uuid: 18acc3de6a9f4ab49bb185e5a51199b0

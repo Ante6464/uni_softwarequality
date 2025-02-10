@@ -1,8 +1,9 @@
 artifact_uri: mlflow-artifacts:/358136329887025901/35422cdb32994ba2a97001059af93fc5/artifacts
+deleted_time: 1739215856801
 end_time: 1739180089035
 entry_point_name: ''
 experiment_id: '358136329887025901'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 35422cdb32994ba2a97001059af93fc5
 run_name: llama31/pop_science/few_shot_style_persona_to-de_en_2
 run_uuid: 35422cdb32994ba2a97001059af93fc5
