@@ -1,5 +1,6 @@
 # coding=utf-8
 # Copyright 2024 Google LLC
+# Copyright 2025 Aldenkirchs & Reichert
 #
 # Licensed under the Apache License, Version 2.0 (the "License");
 # you may not use this file except in compliance with the License.
@@ -133,6 +134,11 @@ def main() -> None:
     device = torch.device("cuda")
     per_device_batch_size = args.batch_size // torch.cuda.device_count()
   else:
+    # This file is based on code from the metricx24 library, which is
+    # distributed under the Apache License 2.0. as seen above
+    # The following modifications have been made by Aldenkirchs & Reichert:
+    # If the project is used under macOS, the device has to be changed to:
+    # device = torch.device("mps")
     device = torch.device("cpu")
     per_device_batch_size = args.batch_size
 
