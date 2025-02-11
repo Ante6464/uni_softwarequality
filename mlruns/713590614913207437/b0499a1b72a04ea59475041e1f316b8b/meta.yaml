@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/713590614913207437/b0499a1b72a04ea59475041e1f316b8b/artifacts
+end_time: 1739218243183
+entry_point_name: ''
+experiment_id: '713590614913207437'
+lifecycle_stage: active
+run_id: b0499a1b72a04ea59475041e1f316b8b
+run_name: gemma/news_spec/few_shot_style_persona_to-de_de_2
+run_uuid: b0499a1b72a04ea59475041e1f316b8b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739218241358
+status: 3
+tags: []
+user_id: DCA

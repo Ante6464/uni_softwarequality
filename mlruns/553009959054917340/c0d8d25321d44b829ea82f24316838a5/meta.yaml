@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/553009959054917340/c0d8d25321d44b829ea82f24316838a5/artifacts
+end_time: 1739219984199
+entry_point_name: ''
+experiment_id: '553009959054917340'
+lifecycle_stage: active
+run_id: c0d8d25321d44b829ea82f24316838a5
+run_name: llama32/pop_science/few_shot_style_persona_to-de_en_2
+run_uuid: c0d8d25321d44b829ea82f24316838a5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739219983949
+status: 3
+tags: []
+user_id: DCA
