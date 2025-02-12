@@ -13,14 +13,16 @@ see the LICENSE file in this repository.
 The code from MetricX included in this project can be found in the `metricx24` folder, and consists of the following files: `__init__.py`, `evaluate.py`, `evaluate_wmt24.py`, `models.py`, and `predict.py`.
 
 ## Project Structure
-* `metricx24`: Code from the [MetricX repository](https://github.com/google-research/metricx) used for evaluation.
-* `few_shot_prompts.ipynb`:  Prompt templates we created and ran through the pipeline.
-* `zero_shot_prompts.ipynb`:  Prompt templates we created and ran through the pipeline.
-* `ProjectNotebook.ipynb`:  The pipeline we developed for this project.
-* `mlruns`: MLflow experiments and runs we logged through the pipeline.
-* `mlartifacts`: MLflow artifacts and outputs that were produced by the pipeline.
-* `machine_translation.csv/pkl`: Datasets used.
-
+```
+📂 project-root/
+├── 📁 metricx24/                       # Code from the MetricX repository (https://github.com/google-research/metricx) used for evaluation.
+├── 📁 mlartifacts/                     # MLflow artifacts and outputs that were produced by the pipeline.
+├── 📁 mlruns/                          # MLflow experiments and runs we logged through the pipeline.
+├── ProjectNotebook.ipynb               # Jupyter Notebook containing the pipeline we developed for this project.
+├── prompt_templates_few_shot.ipynb     # Jupiter Notebook containing the prompt templates we created and ran through the pipeline.
+├── prompt_templates_zero_shot.ipynb    # Jupiter Notebook containing the prompt templates we created and ran through the pipeline.
+├── machine_translation.csv/pkl         # Datasets used.
+```
 
 ## Setup
 
