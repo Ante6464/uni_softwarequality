@@ -4,7 +4,7 @@ entry_point_name: ''
 experiment_id: '493718989855892793'
 lifecycle_stage: active
 run_id: 2530f93518034757ae3c29304d86ea89
-run_name: aya23/science/few_shot_emotion_style_to-de_de_1
+run_name: aya23/science/few_shot_style_emotion_to-de_de_1
 run_uuid: 2530f93518034757ae3c29304d86ea89
 source_name: ''
 source_type: 4

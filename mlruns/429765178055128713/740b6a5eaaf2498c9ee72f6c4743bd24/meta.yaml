@@ -89,7 +89,7 @@ run_name: "gemma/easy/\n    'few_shot_complexity_style_to-de_en_1': {\n        '
   -> German = \"Umgebungstemperatur\", Englisch = \"dispersion measure\" -> German
   = \"Dispersionsmaß\". Hier ist der Text: \"{text}\"',\n        'prompt_language':
   Language.GERMAN,\n        'prompt_type': 'few_shot_complexity_style',\n        'complexities':
-  Complexity.SCIENCE\n    },\nfew_shot_emotion_style_to-de_en_1"
+  Complexity.SCIENCE\n    },\nfew_shot_style_emotion_to-de_en_1"
 run_uuid: 740b6a5eaaf2498c9ee72f6c4743bd24
 source_name: ''
 source_type: 4

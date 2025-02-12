@@ -59,4 +59,4 @@ gemma/easy/
         'prompt_type': 'few_shot_complexity_style',
         'complexities': Complexity.SCIENCE
     },
-few_shot_emotion_style_to-en_en_1
+few_shot_style_emotion_to-en_en_1

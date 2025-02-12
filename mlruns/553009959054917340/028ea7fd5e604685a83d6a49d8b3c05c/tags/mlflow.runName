@@ -59,4 +59,4 @@ llama32/pop_science/
         'prompt_type': 'few_shot_complexity_style',
         'complexities': Complexity.SCIENCE
     },
-few_shot_emotion_style_to-de_en_1
+few_shot_style_emotion_to-de_en_1

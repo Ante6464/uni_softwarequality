@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/391944840061747289/86975f464d654c359bbe49a0a94323ef/artifacts
+deleted_time: 1738429766397
+end_time: 1738429377227
+entry_point_name: ''
+experiment_id: '391944840061747289'
+lifecycle_stage: deleted
+run_id: 86975f464d654c359bbe49a0a94323ef
+run_name: gemma/news_gen/zero_shot_style
+run_uuid: 86975f464d654c359bbe49a0a94323ef
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738429377054
+status: 3
+tags: []
+user_id: fynn

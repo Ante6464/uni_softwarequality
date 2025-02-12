@@ -4,7 +4,7 @@ entry_point_name: ''
 experiment_id: '496790586212187793'
 lifecycle_stage: active
 run_id: fc2b05ed2c044ca2b2647eea6be7cc18
-run_name: llama31/easy/few_shot_persona_style_to-de_de_1
+run_name: llama31/easy/few_shot_style_persona_to-de_de_1
 run_uuid: fc2b05ed2c044ca2b2647eea6be7cc18
 source_name: ''
 source_type: 4

@@ -88,7 +88,7 @@ run_name: "gemma/pop_science/\n    'few_shot_complexity_style_to-en_en_1': {\n  
   -> Englisch = \"ambient-temperature\", Deutsch = \"Dispersionsmaß\" -> Englisch
   = \"dispersion measure\". Hier ist der Text: \"{text}\"',\n        'prompt_language':
   Language.GERMAN,\n        'prompt_type': 'few_shot_complexity_style',\n        'complexities':
-  Complexity.SCIENCE\n    },\nfew_shot_emotion_style_to-en_en_1"
+  Complexity.SCIENCE\n    },\nfew_shot_style_emotion_to-en_en_1"
 run_uuid: 9074e2bc41da4aefbd30c86ed864b2d1
 source_name: ''
 source_type: 4
