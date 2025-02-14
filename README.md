@@ -42,4 +42,10 @@ The code from MetricX included in this project can be found in the `metricx24` f
 
 4.  **macOS Specific Modification:** On macOS, due to differences in PyTorch's device handling, line 142 of `metricx24/predict.py` may need to be adjusted. Specifically, change the line 137 depending on your system, as determined in the preceding lines (137-141). This ensures proper device allocation for the MetricX evaluation.
 
+5.  **MLFlow:** To view our results and pipeline runs, a local mlflow instance can be started running this comment in the root directory of this project:
+
+    ```bash
+    mlflow ui
+    ```
+
 
